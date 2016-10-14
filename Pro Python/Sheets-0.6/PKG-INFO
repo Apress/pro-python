@@ -1,0 +1,15 @@
+Metadata-Version: 1.0
+Name: Sheets
+Version: 0.6
+Summary: A declarative class framework for working with CSV files
+Home-page: http://propython.com/
+Author: Marty Alchin
+Author-email: marty@martyalchin.com
+License: BSD
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Libraries :: Application Frameworks
+Classifier: Programming Language :: Python :: 3.1
